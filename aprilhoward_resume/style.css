@@ -1,0 +1,65 @@
+/*styles for my resume*/
+
+/*this is the style for the body*/
+
+body {
+  font-family: Open Sans, Arial, san-serif;
+  font-size:1em;
+  color:#444
+  font-weight:400;
+}
+
+/*my title has a different color now*/
+
+h1 {
+  font-size:3em;
+  text-transform:uppercase;
+  text-align:center;
+  color:#33485e;
+}
+
+/*this is where my section are nice and bold*/
+
+strong {
+  color:#33485e;
+  font-size:1.5em;
+  text-transform:uppercase;
+}
+
+/*this is where my banners are located*/
+
+h2 {
+  color:#fff;
+  font-size:1.5em;
+  text-transform:uppercase;
+  font-weight:400;
+  background-color:#33485e;
+}
+
+/*this is where my job title is nice and bold*/
+
+h3 {
+  font-size:1.5em;
+  font-weight:600;
+}
+
+/*not much here just where i worked*/
+
+h4 {
+  font-weight:400;
+  font-size:1.5em;
+}
+
+/*look i italicized my job dates*/
+
+h5 {
+  font-weight:400;
+  font-size:1em;
+  font-style:italic;
+}
+
+/*this is like the section where i work*/
+
+li {
+  font-size:1em;
+}
