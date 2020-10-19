@@ -9,7 +9,7 @@ body {
   font-weight:400;
 }
 
-/*this container centered my whole resume i*/
+/*this container centered my whole resume how cool*/
 
 #container {
   width:100%;
@@ -106,10 +106,12 @@ li {
 .menu {
   padding:0px;
   margin:0px;
+  text-align:center;
+  list-style-type:none;
 }
 /*i think this is how you target a targeted item but i'm not sure*/
 
-.menu:target {
+.menu li {
   display:inline;
 }
 /*i only have one degree*/
