@@ -1,0 +1,58 @@
+.masthead {
+  padding: 1em 0;
+  background-size: cover;
+  background-image: url(soccerfield.jpg);
+  width: 900px;
+  margin: 0 auto;
+}
+
+.masthead-intro {
+font-family: Helvetica, sans-serif;
+text-align: center;
+font-size: 3em;
+font-weight: 600;
+color:#FF7F50;
+background-color: #FFFFFF;
+}
+
+h1 {
+  font-family: Georgia, serif;
+  font-size: 25px;
+  text-align: center;
+}
+
+#content {
+  margin: 0 auto;
+  width: 900px;
+  text-align:justify;
+}
+
+h2 {
+  font-family: Georgia, serif;
+  font-size: 20px;
+}
+
+p {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+}
+
+.caption {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  font-style: italic;
+}
+
+#byline {
+  font-family: Georgia; serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+blockquote {
+  color: #FF7F50;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+/* CSS isn't so bad anymore */

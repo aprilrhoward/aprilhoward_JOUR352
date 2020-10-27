@@ -1,0 +1,64 @@
+Questions
+
+1.  In the sentence below, put in the necessary code that would allow users to click on the word Google and open Google's homepage in a new browser:
+
+<a href=”https://google.com” target=”_blank”>Google</a> is the best search engine in the world.
+
+2.  Describe the purpose of a DIV tag.
+
+The div element helps us to determine the various sections of our body element. It can also be used as a container.
+
+3.  Write out the basic structure of an HTML page, putting the basic tags in the correct position.  (Note: you don't need to connect it to a stylesheet or include DIV tags or anything like that).
+
+<!DOCTYPE html>
+  <html lang=”en”>
+
+  <head>
+    <title></title>
+  <head>
+
+    <body>
+    </body>
+</html>
+
+4.  There are two main "areas" or "sections" in the basic structure of an HTML page. In which area would you put a link to a stylesheet?
+
+The two main areas are the head/header and the body. You would put the link to a stylesheet in the head/header.
+
+5.  In which main "area" or "section" of an HTML page would you put text, images or DIV tags?
+
+You would nest text, images, and DIV tags in the body/body tags of the HTML: <body></body>
+
+6.  In the space below, put one DIV tag with a class of graphicbox and a second DIV tag with an ID of name.
+
+<div id=”graphicbox”>
+<div id=”name”>
+
+7.  In the space below, put one DIV tag with an ID of apples and a class of fruit.
+
+<div id=”apples” class="fruit">
+
+8.  In the space below, write the correct CSS code to target a DIV with a class of fruit.  Make the color of the text black (#000000).
+
+.fruit {
+  color: #000000;
+}
+
+9.  What tag would we use to include an image on an HTML page? Just give me the name of the tag, you don't have to write out all the code.
+
+You could use img src with an a href if you want to link a picture from the internet, but if you want to link a picture from your computer you could use img src.
+
+
+10.  Why do we use media queries?
+
+We use media queries to give code a certain set of rules under certain conditions, for example we would use it for code that will be applied to something used on different devices (mobile, desktop, tablet) so that our layout doesn't look crazy when loaded on different devices.
+
+
+11. What is the main difference between a serif and a sans-serif font?
+
+Serif fonts have the design strokes on the tails/ends of the letters and sans-serif fonts don't.
+
+
+12. Which of the following is a hexadecimal code?
+
+#FFCC33
