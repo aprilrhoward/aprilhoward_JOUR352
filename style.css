@@ -1,8 +1,25 @@
+.masthead {
+  padding: 6em 0;
+  background-size: cover;
+  background-image: url(naomibanner.jpg);
+  padding-bottom: 10em;
+  padding-top: 10em;
+}
+
+.masthead-intro {
+  font-size: 4em;
+  font-weight: 600;
+  padding-left: 6em;
+  padding-right:5em;
+  font-family: Helvetica, serif;
+  color: #FFFFFF;
+}
+
 h1 {
   font-family: Helvetica, serif;
   font-weight: 600;
   text-align: center;
-  color: #000000;
+  color: #FFFFFF;
   padding-top: 2.5em;
   padding-bottom: 0.5em;
 }
@@ -10,31 +27,71 @@ h1 {
 h5 {
   font-family: Helvetica, serif;
   text-align: center;
-  color: #000000;
+  color: #FFFFFF;
   padding-bottom: 0.5em;
 }
 
 h3 {
 padding: 0 8.5em;
-color: #000000;
-font-weight: 450;
+color: #A22BFF;
+font-weight: 500;
 padding-bottom: 0.5em;
+padding-left:10.75em;
 }
 
 p {
   width: 1500px;
   padding: 0 15em;
   margin: 0 auto;
-  color: #000000;
+  color: #FFFFFF;
 }
 
 img {
   width: 1200px;
   margin: 0 auto;
   padding-top: 1em;
-  padding-left: 17.5em;
+  padding-left: 22em;
+  padding-right: 12.75em;
+  padding-bottom: 1em;
+}
+
+iframe {
+  padding-top: 1em;
+  padding-left: 22em;
+  padding-right: 30em;
+  padding-bottom: 1em;
+  background-color:#FFFFFF;
+  background-clip: content-box;
+}
+
+.captions {
+  font-size:0.75em;
+  padding-left:28.5em;
+  padding-right:38em;
+  font-style: italic;
+  color: #FFFFFF;
 }
 
 #footer {
   text-align: center;
+}
+
+.bodytext {
+  padding-left: 15em;
+  padding-right: 20em;
+  font-size: 1.25em;
+  color: #FFFFFF;
+}
+
+blockquote_blockquote {
+  color: #A22BFF;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding-left: 5em;
+  text-align: justify;
+  font-size: 1em;
+}
+
+html {
+  background-color:#000000;
 }
